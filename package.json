@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "@babel/eslint-parser": "^7.13.14",
+    "@hapi/bourne": "^2.0.0",
+    "@hapi/hoek": "^9.2.0",
+    "@hapi/topo": "^5.0.0",
+    "@sideway/address": "^4.1.1",
+    "chokidar": "^3.5.1",
+    "core-js": "^3.11.1",
+    "har-validator": "^5.1.5",
+    "joi": "^17.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "rollup-plugin-babel": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
